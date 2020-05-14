@@ -4,7 +4,7 @@
 Умеет слушать что ты сказал, выполняет твои команды и отвечает тебе
 
 По уроку - https://www.youtube.com/watch?v=YeS755SPSI8&feature=youtu.be
-И также - https://www.youtube.com/watch?v=Eh2TA--ZDek
+И также - https://www.youtube.com/watch?v=Eh2TA--ZDek  
 Голос- https://github.com/solkogan/tts_test
 
 Модули:
